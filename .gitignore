@@ -24,3 +24,6 @@ doc/app
 *.swp
 *~
 .DS_Store
+
+# Ignore Spring files
+/spring/*.pid
